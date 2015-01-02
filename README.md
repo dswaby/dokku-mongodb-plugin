@@ -6,7 +6,7 @@ Plugin to setup Mongodb accounts for containers deployed to Dokku
 Installation
 ------------
 ```
-git clone https://github.com/jeffutter/dokku-mongodb-plugin.git /var/lib/dokku/plugins/mongodb
+git clone https://github.com/dswaby/dokku-mongodb-plugin.git /var/lib/dokku/plugins/mongodb
 dokku plugins-install
 ```
 
